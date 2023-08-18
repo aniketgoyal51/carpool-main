@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY6jaCfFIRk-yPlAvSkGpp1_vjBgcrrJwTjJCObih4sjPQpfqfbVAeZIQ6mJN2-f3SVo&usqp=CAU);
+    background-size: 100%;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+.carpool{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carpooling{
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin: 1%;
+}
+.bikepooling{
+    padding: 1%;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin: 1%;
+}
+.taxi{
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin: 1%;
+}

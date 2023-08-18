@@ -1,0 +1,11 @@
+.taxi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center ;
+    font-size: 20px;
+}
+header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY6jaCfFIRk-yPlAvSkGpp1_vjBgcrrJwTjJCObih4sjPQpfqfbVAeZIQ6mJN2-f3SVo&usqp=CAU);
+    background-size: 100%;
+}
